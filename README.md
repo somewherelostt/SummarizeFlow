@@ -112,5 +112,3 @@ In your repository:
 4. Run the container on EC2
 
 ---
-
-Let me know if you'd like me to generate the actual `README.md` file or include a GitHub Actions workflow example (`.github/workflows/deploy.yml`).
